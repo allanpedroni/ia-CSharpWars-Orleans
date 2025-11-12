@@ -6,9 +6,6 @@ using CSharpWars.Orleans.Contracts.Grains;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
 using Orleans.Concurrency;
-using Orleans.Runtime;
-using Orleans.Transactions;
-using Orleans.Transactions.Abstractions;
 using System.Diagnostics;
 
 namespace CSharpWars.Orleans.Grains;
